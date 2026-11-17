@@ -1,0 +1,13 @@
+{
+  "name": "The Mirror That Ate The Hotel, Book Shop by Tammy Michelli",
+  "short_name": "Book Shop",
+  "display": "standalone",
+  "background_color": "#14100b",
+  "theme_color": "#14100b",
+  "start_url": "./",
+  "scope": "./",
+  "icons": [
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "apple-touch-icon.png", "sizes": "180x180", "type": "image/png"}
+  ]
+}
